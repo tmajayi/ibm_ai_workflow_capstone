@@ -1,0 +1,2 @@
+unique_id,timestamp,forecast,country,entry_date,prediction_standard_error,model_version,runtime
+26775673-6710-47f9-a093-42ba456a945f,Mon Dec 28 23:42:37 2020,Nigeria,0.99,100,1.2,0.5,1.0
